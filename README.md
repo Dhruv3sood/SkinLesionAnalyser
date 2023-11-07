@@ -1,1 +1,1 @@
-# SkinLesionAnalyser
+# Skin Lesion Analyser
